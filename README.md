@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Karan 👋</h1>
 
 <p align="center">
   Data Scientist / ML Engineer turning messy data into useful things.
